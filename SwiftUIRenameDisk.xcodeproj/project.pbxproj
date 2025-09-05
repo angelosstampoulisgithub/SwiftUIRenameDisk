@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D6E1D3382E6ADFFD0019B9DA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D6E1D3212E6ADFFB0019B9DA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D6E1D3282E6ADFFB0019B9DA;
+			remoteInfo = SwiftUIRenameDisk;
+		};
+		D6E1D3422E6ADFFD0019B9DA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D6E1D3212E6ADFFB0019B9DA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D6E1D3282E6ADFFB0019B9DA;
+			remoteInfo = SwiftUIRenameDisk;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D6E1D3292E6ADFFB0019B9DA /* SwiftUIRenameDisk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIRenameDisk.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6E1D3372E6ADFFD0019B9DA /* SwiftUIRenameDiskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIRenameDiskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6E1D3412E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIRenameDiskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D6E1D32B2E6ADFFB0019B9DA /* SwiftUIRenameDisk */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SwiftUIRenameDisk;
+			sourceTree = "<group>";
+		};
+		D6E1D33A2E6ADFFD0019B9DA /* SwiftUIRenameDiskTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SwiftUIRenameDiskTests;
+			sourceTree = "<group>";
+		};
+		D6E1D3442E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SwiftUIRenameDiskUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D6E1D3262E6ADFFB0019B9DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E1D3342E6ADFFD0019B9DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E1D33E2E6ADFFD0019B9DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D6E1D3202E6ADFFB0019B9DA = {
+			isa = PBXGroup;
+			children = (
+				D6E1D32B2E6ADFFB0019B9DA /* SwiftUIRenameDisk */,
+				D6E1D33A2E6ADFFD0019B9DA /* SwiftUIRenameDiskTests */,
+				D6E1D3442E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests */,
+				D6E1D32A2E6ADFFB0019B9DA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D6E1D32A2E6ADFFB0019B9DA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D6E1D3292E6ADFFB0019B9DA /* SwiftUIRenameDisk.app */,
+				D6E1D3372E6ADFFD0019B9DA /* SwiftUIRenameDiskTests.xctest */,
+				D6E1D3412E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D6E1D3282E6ADFFB0019B9DA /* SwiftUIRenameDisk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6E1D34B2E6ADFFD0019B9DA /* Build configuration list for PBXNativeTarget "SwiftUIRenameDisk" */;
+			buildPhases = (
+				D6E1D3252E6ADFFB0019B9DA /* Sources */,
+				D6E1D3262E6ADFFB0019B9DA /* Frameworks */,
+				D6E1D3272E6ADFFB0019B9DA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D6E1D32B2E6ADFFB0019B9DA /* SwiftUIRenameDisk */,
+			);
+			name = SwiftUIRenameDisk;
+			packageProductDependencies = (
+			);
+			productName = SwiftUIRenameDisk;
+			productReference = D6E1D3292E6ADFFB0019B9DA /* SwiftUIRenameDisk.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D6E1D3362E6ADFFD0019B9DA /* SwiftUIRenameDiskTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6E1D34E2E6ADFFD0019B9DA /* Build configuration list for PBXNativeTarget "SwiftUIRenameDiskTests" */;
+			buildPhases = (
+				D6E1D3332E6ADFFD0019B9DA /* Sources */,
+				D6E1D3342E6ADFFD0019B9DA /* Frameworks */,
+				D6E1D3352E6ADFFD0019B9DA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D6E1D3392E6ADFFD0019B9DA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D6E1D33A2E6ADFFD0019B9DA /* SwiftUIRenameDiskTests */,
+			);
+			name = SwiftUIRenameDiskTests;
+			packageProductDependencies = (
+			);
+			productName = SwiftUIRenameDiskTests;
+			productReference = D6E1D3372E6ADFFD0019B9DA /* SwiftUIRenameDiskTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D6E1D3402E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6E1D3512E6ADFFD0019B9DA /* Build configuration list for PBXNativeTarget "SwiftUIRenameDiskUITests" */;
+			buildPhases = (
+				D6E1D33D2E6ADFFD0019B9DA /* Sources */,
+				D6E1D33E2E6ADFFD0019B9DA /* Frameworks */,
+				D6E1D33F2E6ADFFD0019B9DA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D6E1D3432E6ADFFD0019B9DA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D6E1D3442E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests */,
+			);
+			name = SwiftUIRenameDiskUITests;
+			packageProductDependencies = (
+			);
+			productName = SwiftUIRenameDiskUITests;
+			productReference = D6E1D3412E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D6E1D3212E6ADFFB0019B9DA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					D6E1D3282E6ADFFB0019B9DA = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					D6E1D3362E6ADFFD0019B9DA = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = D6E1D3282E6ADFFB0019B9DA;
+					};
+					D6E1D3402E6ADFFD0019B9DA = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = D6E1D3282E6ADFFB0019B9DA;
+					};
+				};
+			};
+			buildConfigurationList = D6E1D3242E6ADFFB0019B9DA /* Build configuration list for PBXProject "SwiftUIRenameDisk" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D6E1D3202E6ADFFB0019B9DA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D6E1D32A2E6ADFFB0019B9DA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D6E1D3282E6ADFFB0019B9DA /* SwiftUIRenameDisk */,
+				D6E1D3362E6ADFFD0019B9DA /* SwiftUIRenameDiskTests */,
+				D6E1D3402E6ADFFD0019B9DA /* SwiftUIRenameDiskUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D6E1D3272E6ADFFB0019B9DA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E1D3352E6ADFFD0019B9DA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E1D33F2E6ADFFD0019B9DA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D6E1D3252E6ADFFB0019B9DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E1D3332E6ADFFD0019B9DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E1D33D2E6ADFFD0019B9DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D6E1D3392E6ADFFD0019B9DA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D6E1D3282E6ADFFB0019B9DA /* SwiftUIRenameDisk */;
+			targetProxy = D6E1D3382E6ADFFD0019B9DA /* PBXContainerItemProxy */;
+		};
+		D6E1D3432E6ADFFD0019B9DA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D6E1D3282E6ADFFB0019B9DA /* SwiftUIRenameDisk */;
+			targetProxy = D6E1D3422E6ADFFD0019B9DA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D6E1D3492E6ADFFD0019B9DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D6E1D34A2E6ADFFD0019B9DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		D6E1D34C2E6ADFFD0019B9DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SwiftUIRenameDisk/SwiftUIRenameDisk.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRenameDisk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		D6E1D34D2E6ADFFD0019B9DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SwiftUIRenameDisk/SwiftUIRenameDisk.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRenameDisk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		D6E1D34F2E6ADFFD0019B9DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRenameDiskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUIRenameDisk.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftUIRenameDisk";
+			};
+			name = Debug;
+		};
+		D6E1D3502E6ADFFD0019B9DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRenameDiskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUIRenameDisk.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftUIRenameDisk";
+			};
+			name = Release;
+		};
+		D6E1D3522E6ADFFD0019B9DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRenameDiskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = SwiftUIRenameDisk;
+			};
+			name = Debug;
+		};
+		D6E1D3532E6ADFFD0019B9DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRenameDiskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = SwiftUIRenameDisk;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D6E1D3242E6ADFFB0019B9DA /* Build configuration list for PBXProject "SwiftUIRenameDisk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6E1D3492E6ADFFD0019B9DA /* Debug */,
+				D6E1D34A2E6ADFFD0019B9DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6E1D34B2E6ADFFD0019B9DA /* Build configuration list for PBXNativeTarget "SwiftUIRenameDisk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6E1D34C2E6ADFFD0019B9DA /* Debug */,
+				D6E1D34D2E6ADFFD0019B9DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6E1D34E2E6ADFFD0019B9DA /* Build configuration list for PBXNativeTarget "SwiftUIRenameDiskTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6E1D34F2E6ADFFD0019B9DA /* Debug */,
+				D6E1D3502E6ADFFD0019B9DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6E1D3512E6ADFFD0019B9DA /* Build configuration list for PBXNativeTarget "SwiftUIRenameDiskUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6E1D3522E6ADFFD0019B9DA /* Debug */,
+				D6E1D3532E6ADFFD0019B9DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D6E1D3212E6ADFFB0019B9DA /* Project object */;
+}
